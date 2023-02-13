@@ -1,2 +1,2 @@
 #!bin/bash
-ls -la > ls_cmd_content
+ls -a > ls_cmd_content
